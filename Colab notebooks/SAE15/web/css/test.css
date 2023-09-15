@@ -1,0 +1,35 @@
+/*******************************************/
+/* Feuille de styles pour projetSAE15.html */
+/*******************************************/
+#entete, #stats, #carte, #footer {
+    padding:1px 0;
+}
+  
+#entete {
+    background-color:#FF9900;
+    text-align:center;
+}
+  
+#main {
+    max-width:960px;
+    margin:auto;
+}
+  
+#stats  {
+    float:left;
+    width: 300px;
+    background-color:#FF3366;
+}
+  
+#carte {
+    margin: left 300px;
+    background-color:#9966FF;
+}
+  
+
+#footer {
+    background-color:#669933;
+    text-align:center;
+    clear:both;
+}
+/* définition des styles */
